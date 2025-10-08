@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nameUkr": "Маг (Онлайн)",
+    "nameEn": "The Magician (Online)",
+    "number": "I",
+    "meaningGeneral": "Сила, що прийшла з Інтернету",
+    "meaningPositive": "Майстерність та ініціатива",
+    "meaningNegative": "Маніпуляція та хитрощі"
+  },
+  {
+    "id": 2,
+    "nameUkr": "Верховна Жриця (Онлайн)",
+    "nameEn": "The High Priestess (Online)",
+    "number": "II",
+    "meaningGeneral": "Таємниця, інтуїція",
+    "meaningPositive": "Мудрість та проникливість",
+    "meaningNegative": "Пасивність та ігнорування знаків"
+  }
+]
